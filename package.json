@@ -3,6 +3,10 @@
   "version": "1.1.2",
   "private": false,
   "publishConfig": { "access": "public" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alysonmota/presets.git"
+  },
   "exports": {
     "./biome": "./biome.json",
     "./paths": "./paths.json"
