@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "${configDir}/src",
+    "baseUrl": "${configDir}/app",
     "paths": {
       "~/*": ["./*"]
     }
