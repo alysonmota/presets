@@ -1,12 +1,13 @@
 {
   "name": "@mota.alyson/presets",
-  "version": "1.1.4",
+  "version": "1.1.8",
   "private": false,
   "publishConfig": { "access": "public" },
   "exports": {
     "./biome": "./biome.json",
     "./paths": "./paths.json",
-    "./paths.app": "./paths.app.json"
+    "./paths.app": "./paths.app.json",
+    "./tsconfig": "./tsconfig.json"
   },
   "files": ["./*.json"]
 }
